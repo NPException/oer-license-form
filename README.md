@@ -4,14 +4,14 @@
 
 Lizenz-Form Generator
 
-- Gibt eine HTML-Form zurück, mit der sich eine Lizenz auswählen lässt
-- Durch Parameter werden Submit-URL, CSS-Klassen, wählbare Lizenzen, ö.Ä. bestimmt
+- Gibt eine HTML-Form zurÃ¼ck, mit der sich eine Lizenz auswÃ¤hlen lÃ¤sst
+- Durch Parameter werden Submit-URL, CSS-Klassen, wÃ¤hlbare Lizenzen, o.Ã„. bestimmt
 - evtl. zusammenstellen einer Lizenz mit einer Art "Fragebogen"
-    (Bei Übereinstimmung mit existierender Lizenz wird diese angeboten)
+    (Bei Ãœbereinstimmung mit existierender Lizenz wird diese angeboten)
   
 ## Notizen
 
-- Spezifizierung der nötigen Parameter:
+- Spezifizierung der nÃ¶tigen Parameter:
   - id des Lizenz Inputfeldes
   - id des Eigene-Lizenz-Text Feldes
   - complete-form? true/false
@@ -20,10 +20,3 @@ Lizenz-Form Generator
 ## Usage
 
 FIXME
-
-## License
-
-Copyright Â© 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
